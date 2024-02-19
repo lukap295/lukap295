@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lukap295)
+![](https://komarev.com/ghpvc/?username=lukap295&color=green)
 <!--
 **lukap295/lukap295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
